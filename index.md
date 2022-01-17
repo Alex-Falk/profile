@@ -1,8 +1,32 @@
-## Welcome to GitHub Pages
+## ALEXANDER FALK
 
-You can use the [editor on GitHub](https://github.com/Alex-Falk/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Programmer with 3 years experience in the games industry
+MSc. Computer Games Engineering
+Mphys. Astrophysics_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Programmer with 3 years professional experience in programming gameplay features in C++ and C#.  I have worked on The Lego Movie 2 Videogame (2019), Lego Star Wars: The Skywalker saga (announced 2021) and Iron Harvest (2020).
+
+
+
+I am always eager to learn more and improve my abilities as a programmer through experience as well as learning resources such as GDC talks. I am always motivated to apply my critical thinking and problem-solving abilities in a team environment in order to bring a project to a joint success.
+
+​
+
+I have grown up in an international environment, having lived, studied and worked in a total of 6 different countries. I am always eager to learn more about other cultures and work with people from all around the globe.
+
+​
+
+I am passionate about gaming, programming, music, travel, cultures and science.
+
+
+
+**Key skills**: C++, C#, Python, Perforce, Git, SVN, OpenGL (GLSL), Physics, Maths (Linear Algebra), Critical Thinking, Problem Solving, Teamwork
+
+You can find Code samples from my university projects on my [GitHub](https://github.com/Alex-Falk).
+
+​
+
+My CV
 
 ### Markdown
 
