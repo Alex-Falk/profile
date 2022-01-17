@@ -1,5 +1,8 @@
 # PORTFOLIO: ALEXANDER FALK
 
+~
+6  ]rt451 
+
 _Programmer with 3 years experience in the games industry
 MSc. Computer Games Engineering
 Mphys. Astrophysics_
@@ -18,6 +21,8 @@ You can find Code samples from my university projects on my [GitHub](https://git
 
 My [CV]()
 
+--- 
+
 # Games I Worked On
 
 ## IRON HARVEST
@@ -29,6 +34,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## THE LEGO MOVIE 2 VIDEOGAME
 During my initial months at Tt Games I was bug fixing in various systems of the game Lego Worlds. These bug fixes were not integrated into the live version of the game, but the systems were used in "The Lego Movie 2 Videogame", gaining me a credit in that title.
+
+---
 
 # University Projects
 
