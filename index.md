@@ -33,7 +33,7 @@ During my initial months at Tt Games I was bug fixing in various systems of the 
 # University Projects
 
 ## "El Bloob" - Team Project
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IgmXKeS9seU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/IgmXKeS9seU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This was my Team project in my MSc Computer Games Engineering degree. We were tasked with making a multiplayer game in which players paint the enviroment with the examples of De Blob or Splatoon.
 
@@ -50,6 +50,7 @@ My Roles in the team project were:
 The github repo for this project can be found here where the nclgl and ncltech libraries are based on my previous courseworks, the networking folder contains my networking code and the PC folder contains the code for the actual game, which I also contributed to.
 
 ## Fast Protoyping using UE4
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wzvcy0FLRkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This prototype is a 2 player split-screen game in which the goal is to paint a certain amount of the environment before the opposing player does. It includes the following features:
 - ainting on contact (using decals attached to box colliders to prevent large overlaps)
@@ -64,6 +65,7 @@ This prototype is a 2 player split-screen game in which the goal is to paint a c
 - When a player reaches the maximum score the game will end and allow the player to either choose restart or quit
 
 ## GPU Modelled Softbody
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Mjj8oiJLEJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In my "Advanced Game Tech" module one of the advanced tasks was to create a GPU accelerated soft-body. I created this using a set of points connected to each other by springs. Both the spring interactions and the other physics acting on the particles (collisions with other objects and gravity) are calculated on the GPU using CUDA (see code here). For this project I used C++ and the NCLGL framework from my graphics course.
 
@@ -74,6 +76,8 @@ Each update the soft body is calculated in the following way:
 The rendering of the soft-body is done using openGL and each of the physical node positions is used as a vertex for the mesh. These mesh vertices are then updated every frame.
 
 ## Graphics for Games
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ri7PLdAxPmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The goal of this project was in implement a rendering pipeline and show off an Array of different graphical effects and techniques. The video shows three separate scenes with the following effects:
 
 **Scene 1: **
@@ -96,6 +100,8 @@ The goal of this project was in implement a rendering pipeline and show off an A
 - Deffered rendering
 
 ## GameTech: Networking/AI
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rlYH0_0A-tM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This is part of my coursework for the Advanced Game Tech module. The video here shows a server running with 3 clients connecting to it. The server does the calculations such as pathfinding, maze creation and AI and sends it to the clients for them to render. The client has a point and click interface to choose starting and end positions for its avatar (green cube).  The hazards (red cubes) are controlled by a Finite State Machine. Collisions can be detected between avatars and hazards. Below is an overview of some of the main features:
 
 **Server Features:**
@@ -111,6 +117,8 @@ This is part of my coursework for the Advanced Game Tech module. The video here 
 - The client can point and click tiles in the maze to select start (right click) and end (left click) positions. This information is then sent to the server for pathfinding calculations.
 
 ## Gametech: Physics
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/f_6jUrX0kq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The goal of this project was to create a physics engine that could handle a certain amount of collision checks. The initial clip shows different physics integration methods at different framerates.
 
  I implemented an octree for the physics engine to manage the collision checks in a more efficient manner. The red squares in the video show is adapting octree in action.
