@@ -33,9 +33,7 @@ During my initial months at Tt Games I was bug fixing in various systems of the 
 # University Projects
 
 ## "El Bloob" - Team Project
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=IgmXKeS9seU
-" target="_blank"><img src="http://img.youtube.com/vi/IgmXKeS9seU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="100%" height="auto" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgmXKeS9seU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This was my Team project in my MSc Computer Games Engineering degree. We were tasked with making a multiplayer game in which players paint the enviroment with the examples of De Blob or Splatoon.
 
